@@ -1,6 +1,7 @@
 import React from 'react';
 import './Projects.css'; // Make sure this CSS file is imported
 import Footer from '../Footer';
+
 function Projects() {
   const completedProjects = [
     {
@@ -82,7 +83,7 @@ function Projects() {
           </div>
         ))}
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 }

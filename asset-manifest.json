@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/victor-mwenda-portfolio/static/css/main.a8653817.css",
-    "main.js": "/victor-mwenda-portfolio/static/js/main.1f88b84d.js",
-    "static/js/453.9cdd758f.chunk.js": "/victor-mwenda-portfolio/static/js/453.9cdd758f.chunk.js",
-    "static/media/goals.jpeg": "/victor-mwenda-portfolio/static/media/goals.37f1259f6cad3a7a888e.jpeg",
-    "static/media/education.jpeg": "/victor-mwenda-portfolio/static/media/education.6dde7b2cef4a35b83654.jpeg",
-    "static/media/skills.jpeg": "/victor-mwenda-portfolio/static/media/skills.f41d2b9d03c02e2298c9.jpeg",
-    "static/media/experience.jpeg": "/victor-mwenda-portfolio/static/media/experience.e3f8e90796f289da330e.jpeg",
-    "static/media/passion.jpeg": "/victor-mwenda-portfolio/static/media/passion.501362946db3d57a826a.jpeg",
-    "static/media/mobile.jpg": "/victor-mwenda-portfolio/static/media/mobile.01b0c1c7bc63b6ea7bd6.jpg",
-    "static/media/vic.jpg": "/victor-mwenda-portfolio/static/media/vic.9259d61a72c6ea96eb27.jpg",
-    "static/media/network.jpeg": "/victor-mwenda-portfolio/static/media/network.757670335b3af8f863eb.jpeg",
-    "index.html": "/victor-mwenda-portfolio/index.html",
-    "main.a8653817.css.map": "/victor-mwenda-portfolio/static/css/main.a8653817.css.map",
-    "main.1f88b84d.js.map": "/victor-mwenda-portfolio/static/js/main.1f88b84d.js.map",
-    "453.9cdd758f.chunk.js.map": "/victor-mwenda-portfolio/static/js/453.9cdd758f.chunk.js.map"
+    "main.css": "/static/css/main.a8653817.css",
+    "main.js": "/static/js/main.a8097cba.js",
+    "static/js/453.9cdd758f.chunk.js": "/static/js/453.9cdd758f.chunk.js",
+    "static/media/goals.jpeg": "/static/media/goals.37f1259f6cad3a7a888e.jpeg",
+    "static/media/education.jpeg": "/static/media/education.6dde7b2cef4a35b83654.jpeg",
+    "static/media/skills.jpeg": "/static/media/skills.f41d2b9d03c02e2298c9.jpeg",
+    "static/media/experience.jpeg": "/static/media/experience.e3f8e90796f289da330e.jpeg",
+    "static/media/passion.jpeg": "/static/media/passion.501362946db3d57a826a.jpeg",
+    "static/media/mobile.jpg": "/static/media/mobile.01b0c1c7bc63b6ea7bd6.jpg",
+    "static/media/vic.jpg": "/static/media/vic.9259d61a72c6ea96eb27.jpg",
+    "static/media/network.jpeg": "/static/media/network.757670335b3af8f863eb.jpeg",
+    "index.html": "/index.html",
+    "main.a8653817.css.map": "/static/css/main.a8653817.css.map",
+    "main.a8097cba.js.map": "/static/js/main.a8097cba.js.map",
+    "453.9cdd758f.chunk.js.map": "/static/js/453.9cdd758f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8653817.css",
-    "static/js/main.1f88b84d.js"
+    "static/js/main.a8097cba.js"
   ]
 }

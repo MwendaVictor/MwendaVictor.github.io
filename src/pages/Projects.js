@@ -6,7 +6,7 @@ function Projects() {
     {
       title: 'Personal Portfolio',
       description: 'A responsive web portfolio showcasing my skills and projects.',
-      link: 'https://nicomalombe.github.io/victor-mwenda-portfolio',
+      link: 'https://MwendaVictor.github.io/victor-mwenda-portfolio',
     },
     {
       title: 'AI-powered Mpox Outbreak Prediction Model',

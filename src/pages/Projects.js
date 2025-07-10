@@ -6,11 +6,12 @@ function Projects() {
     {
       title: 'Personal Portfolio',
       description: 'A responsive web portfolio showcasing my skills and projects.',
-      link: 'https://nicomalombe.github.io/victor-mwenda-portfolio',
+      link: 'https://github.com/MwendaVictor/MwendaVictor.github.io.git',
     },
     {
       title: 'AI-powered Mpox Outbreak Prediction Model',
       description: 'Utilizes machine learning to predict and track Mpox outbreak patterns using historical health data.',
+      link: 'https://github.com/MwendaVictor/AI-MPOX-OPS.git',
     },
     {
       title: 'Supermarket Supply Chain Inventory Management Simulation',
@@ -31,6 +32,7 @@ function Projects() {
     {
       title: 'ML Loan Default Prediction',
       description: 'Predictive model to assess the risk of loan default using classification algorithms on financial data.',
+      link: 'https://github.com/MwendaVictor/AI-LDPS.git',
     },
     {
       title: 'AI Supply Chain Optimization',
@@ -65,7 +67,7 @@ function Projects() {
                   rel="noopener noreferrer"
                   style={{ color: '#1a73e8' }}
                 >
-                  View Project
+                  View On GitHub
                 </a>
               )}
             </p>

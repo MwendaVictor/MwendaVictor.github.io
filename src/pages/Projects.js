@@ -20,14 +20,18 @@ function Projects() {
     {
       title: 'Diabetes Prediction System Model',
       description: 'A machine learning model that predicts the likelihood of diabetes based on patient data.',
+      link: 'https://github.com/nicomalombe/diabetes_prediction_model.git'
     },
+
     {
       title: 'Rule-based Expert System',
       description: 'Uses inference logic and defined rules to provide expert-level analysis in a given domain.',
+      link: 'https://github.com/nicomalombe/expert-system.git',
     },
     {
       title: 'Business ERP Planning System',
       description: 'Integrated software solution for managing key business processes such as HR, finance, and supply chain.',
+      link: 'https://github.com/nicomalombe/business_erp.git',
     },
     {
       title: 'ML Loan Default Prediction',
@@ -37,6 +41,7 @@ function Projects() {
     {
       title: 'AI Supply Chain Optimization',
       description: 'Leverages AI to forecast demand, optimize inventory levels, and improve logistics efficiency.',
+      link: 'https://github.com/KaheniSatima/kaheni-marketing-sales-system.git',
     },
   ];
 

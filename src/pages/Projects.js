@@ -1,12 +1,17 @@
 import React from 'react';
 import './Projects.css'; // Make sure this CSS file is imported
 import Footer from '../Footer';
+
 function Projects() {
   const completedProjects = [
     {
       title: 'Personal Portfolio',
       description: 'A responsive web portfolio showcasing my skills and projects.',
+<<<<<<< HEAD
       link: 'https://github.com/MwendaVictor/MwendaVictor.github.io.git',
+=======
+      link: 'https://MwendaVictor.github.io/victor-mwenda-portfolio',
+>>>>>>> 04b17290ae7dfa26bf6a27142c0e23e14df995b1
     },
     {
       title: 'AI-powered Mpox Outbreak Prediction Model',
@@ -89,7 +94,7 @@ function Projects() {
           </div>
         ))}
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 }

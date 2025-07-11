@@ -2,7 +2,11 @@
   "name": "victor-mwenda-portfolio",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://MwendaVictor.github.io",
+=======
+ "homepage": "https://MwendaVictor.github.io/victor-mwenda-portfolio",
+>>>>>>> 04b17290ae7dfa26bf6a27142c0e23e14df995b1
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

@@ -7,7 +7,7 @@ const skillsData = [
     {
         title: 'Programming & Development',
         icon: <FaCode />,
-        skills: ['Python', 'JavaScript', 'OOP', 'SDLC', 'Agile', 'Git', 'REST APIs']
+        skills: ['Python', 'TypeScript', 'OOP', 'SDLC', 'Agile', 'Git', 'REST APIs']
     },
     {
         title: 'Web Development',
@@ -42,7 +42,7 @@ const skillsData = [
     {
         title: 'Microsoft Office Tools',
         icon: <MdSupportAgent />,
-        skills: ['Excel', 'Word', 'PowerPoint', 'Google Workspace']
+        skills: ['Excel', 'Word', 'PowerPoint', 'Projects', 'Google Workspace']
     },
     {
         title: 'IT Support',

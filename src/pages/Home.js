@@ -18,16 +18,17 @@ const Home = () => {
           <img src={profileImage} alt="Victor Mwenda" className="profile-image" />
         </div>
         <h1 className="greeting">
-          Hi, I'm <span className="name">Victor Mwenda</span> 👋
+          Hi, I'm <span className="name">Victor Mwenda a Full Stack Developer</span> 👋
         </h1>
         <p className="welcome-text">
-          Welcome to my professional portfolio. Explore my work, skills, and journey.
+          Welcome to my professional portfolio. Explore my work, skills, and journey. Thankyou.
         </p>
 
         <button className="learn-more-btn" onClick={handleLearnMore}>
-          Learn more about me
+          Learn more about Victor
         </button>
         <br />
+             
 <Footer />
         <div className="footer-bottom">
           <p>&copy; {new Date().getFullYear()} Victor Mwenda Mururu. All rights reserved.</p>

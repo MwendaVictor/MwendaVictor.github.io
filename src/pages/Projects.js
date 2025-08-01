@@ -6,9 +6,10 @@ function Projects() {
   const completedProjects = [
     {
       title: 'Personal Portfolio',
-      description: 'A responsive web portfolio showcasing my skills and projects.',
+      description: 'A responsive web portfolio showcasing my skills, education, experience and projects.',
     },
-    {
+
+  {
       title: 'AI-powered Mpox Outbreak Prediction Model',
       description: 'Utilizes machine learning to predict and track Mpox outbreak patterns using historical health data.',
       link: 'https://github.com/MwendaVictor/AI-MPOX-OPS.git',

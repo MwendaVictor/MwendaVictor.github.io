@@ -20,13 +20,11 @@ const About = () => {
         <div className="text-container">
           <h2>About Me</h2>
           <p>
-            I’m <strong>Victor</strong>, a dedicated Computer Science student at <strong>Karatina University</strong>, 
-            graduating in <strong>September</strong>. I'm passionate about creating digital experiences that are
+            I’m <strong>Victor</strong>, a dedicated Full Stack Developer passionate about creating digital experiences that are
             intuitive, engaging, and efficient. I enjoy exploring new technologies and applying them to solve
             real-world challenges. I am highly specialized in <strong>Software Development, Android Development (mobile app), Website Design & Development, 
             Graphics Design, UI/UX Design, Artificial Intelligence & Machine Learning, Data Science, Search Engine Optimization (SEO), 
-            Database Management, Microsoft Office, Networking (especially fiber management and other tasks related to networking)</strong>, 
-            and <strong>IT Support</strong>.
+            Database Management, Microsoft Office, Networking </strong>, and <strong>IT Support</strong>.
           </p>
         </div>
       </section>
@@ -39,8 +37,8 @@ const About = () => {
         <div className="text-container">
           <h2>Education</h2>
           <p className="about-description">
-            I have successfully completed my four-year degree course: <strong>Bachelor of Science in Computer Science</strong> at <strong>Karatina University</strong>. 
-            During my academic journey, I have gained extensive knowledge and hands-on experience in <strong>Software Development, Android Development (mobile app), Game Development, Website Design & Development, Graphics Design, UI/UX Design, Artificial Intelligence & Machine Learning, Data Science, Search Engine Optimization (SEO), Database Management, Microsoft Office, Networking (especially fiber management and other tasks related to networking)</strong>, and <strong>IT Support</strong>. 
+            I have a degree in <strong>Bachelor of Science in Computer Science</strong> at <strong>Karatina University</strong>. 
+            During my academic journey, I have gained extensive knowledge and hands-on experience in <strong>Software Development, Android Development (mobile app), Game Development, Website Design & Development, Graphics Design, UI/UX Design, Artificial Intelligence & Machine Learning, Data Science, Search Engine Optimization (SEO), Database Management, Microsoft Office, Networking</strong>, and <strong>IT Support</strong>. 
             My studies also equipped me with strong foundations in programming, software engineering, data structures, and systems analysis.
           </p>
         </div>
@@ -109,7 +107,7 @@ const About = () => {
           <h2>Goals & Vision</h2>
           <p>
             My vision is to become a transformative software engineer and data science engineer who contributes to meaningful technological
-            innovations. I aim to pursue further studies and work on impactful projects that improve lives through technology.
+            innovations. I aim to pursue further studies and work on impactful projects that improve lives and stimulate well-being of others through technology.
           </p>
         </div>
       </section>

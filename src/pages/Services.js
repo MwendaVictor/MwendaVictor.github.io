@@ -21,7 +21,7 @@ const Services = () => {
         <div className="service-card">
           <img src={webImg} alt="Web Development" className="service-image" />
           <h3>Web Development</h3>
-          <p>I build responsive and dynamic websites using modern technologies like React, HTML, CSS, and JavaScript.</p>
+          <p>I build responsive and dynamic websites using modern technologies like React, HTML, CSS, and TypeScript.</p>
         </div>
 
         <div className="service-card">
